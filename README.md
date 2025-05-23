@@ -2,7 +2,7 @@
 URL dataseti (benign url, defacement url, phishing url, malware url) üzerinde KNN ve Random Forest gözetimli öğrenme algoritmaları kullanarak makine öğrenmesi yapıldı.
 
 
-#Giriş
+# Giriş
 Veri seti olarak https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset linkindeki url veri setini kullandık. 
 Veri seti url ve type olarak 2 sütuna sahip olup 641119 satırdan oluşuyor.
 
@@ -30,12 +30,12 @@ RandomSearch kullanarak Random Forest algoritmasının bizim verimiz için en iy
 
 Random Forest algoritması için Confusion Matrix görselleştirmesi yaptık.
 
-#Metrikler
+# Metrikler
 ...
 
-#Sonuç ve Gelecek Çalışmalar
+# Sonuç ve Gelecek Çalışmalar
 ...
 
-#Linkler
+# Linkler
 ...
 
