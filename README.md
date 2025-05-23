@@ -14,7 +14,7 @@ LabelEncoder ile veri setimizdeki type türlerini sayısal veriye dönüştürd�
 
 X verisine url ve type sütununu drop ederek tablomuzu yükledik Y verisine de type sütununu yükledik. Bu verileri %80 eğitim ve %20 test olacak şekilde ayırdık.
 
----İlk olarak KNN gözetimli öğrenme algoritmasını kullandık.
+## İlk olarak KNN gözetimli öğrenme algoritmasını kullandık.
 
 'url_length', 'domain_length', 'path_length', 'num_dots', 'num_slashes', 'is_https', 'num_params' özelliklerimizin KNN algoritması için önemini belirledik ve görselleştirdik. Bunun sonucunda en önemli özelliğimizin 'domain_length' ve en önemsiz özelliğimizin 'is_https' olduğunu gördük. (!!!Etiketleme hataları nedeniyle is_https özelliği istatistiksel olarak düşük önemde görünse de, gerçek dünyadaki güvenlik önemi nedeniyle veri setinde tutulmuştur. Hatalar giderildiğinde model performansına katkısı artacaktır.)
 
@@ -22,7 +22,7 @@ GridSearch kullanarak KNN algoritmasının bizim verimiz için en iyi doğruluk 
 
 KNN algoritması için Confusion Matrix görselleştirmesi yaptık. 
 
----İkinci olarak Random Forest gözetimli öğrenme algoritmasını kullandık.
+## İkinci olarak Random Forest gözetimli öğrenme algoritmasını kullandık.
 
 'url_length', 'domain_length', 'path_length', 'num_dots', 'num_slashes', 'is_https', 'num_params' özelliklerimizin Random Forest/ algoritması için önemini belirledik ve görselleştirdik. KNN algoritmasında olduğu gibi bunun sonucunda da en önemli özelliğimizin 'domain_length' ve en önemsiz özelliğimizin 'is_https' olduğunu gördük. (!!!Etiketleme hataları nedeniyle is_https özelliği istatistiksel olarak düşük önemde görünse de, gerçek dünyadaki güvenlik önemi nedeniyle veri setinde tutulmuştur. Hatalar giderildiğinde model performansına katkısı artacaktır.)
 
