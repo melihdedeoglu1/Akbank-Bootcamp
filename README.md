@@ -33,12 +33,20 @@ Random Forest algoritması için Confusion Matrix görselleştirmesi yaptık.
 # Metrikler
 
 **KNN sonuçları**
+
 ...
+
 **Random Forest Sonuçları**
+
 Öncelikle özelliklerimiz için önem grafiği oluşturduk. Çıktısı şu şekilde olup etiketleme hatalarından dolayı en önemsiz özellik  is_https gibi gözükse de teknik olarak böyle olmaması gerekiyor.
 
 ![RandomForestOnemGrafigi](https://github.com/melihdedeoglu1/Akbank-Bootcamp/blob/main/images/rf_onem.png?raw=true)
 
+![RandomForestOnemGrafigi](https://github.com/melihdedeoglu1/Akbank-Bootcamp/blob/main/images/rf_eniyi.png?raw=true)
+
+![RandomForestOnemGrafigi](https://github.com/melihdedeoglu1/Akbank-Bootcamp/blob/main/images/rf_sonuclar.png?raw=true)
+
+![RandomForestOnemGrafigi](https://github.com/melihdedeoglu1/Akbank-Bootcamp/blob/main/images/rf_confusion.png?raw=true)
 
 # Sonuç ve Gelecek Çalışmalar
 ...
