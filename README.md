@@ -31,8 +31,15 @@ RandomSearch kullanarak Random Forest algoritmasının bizim verimiz için en iy
 Random Forest algoritması için Confusion Matrix görselleştirmesi yaptık.
 
 # Metrikler
-![wjdadad](https://imgur.com/a/XluEpcS)
-![Ekran Görüntüsü](https://github.com/melihdedeoglu1/Akbank-Bootcamp/blob/main/images/aaa.png?raw=true)
+
+**KNN sonuçları**
+...
+**Random Forest Sonuçları**
+Öncelikle özelliklerimiz için önem grafiği oluşturduk. Çıktısı şu şekilde olup etiketleme hatalarından dolayı en önemsiz özellik  is_https gibi gözükse de teknik olarak böyle olmaması gerekiyor.
+
+![RandomForestOnemGrafigi](https://github.com/melihdedeoglu1/Akbank-Bootcamp/blob/main/images/aa.png?raw=true)
+
+
 # Sonuç ve Gelecek Çalışmalar
 ...
 
