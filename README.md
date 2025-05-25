@@ -84,6 +84,6 @@ Sınıflandırma raporundaki Phishing sınıfına ait F1-skorunun neden az çık
 # Linkler
 * **Umut Kuzyaka** https://www.kaggle.com/code/umutkuzyaka/akbank-project
 
-* **Melih Dedeoğlu**  https://www.kaggle.com/code/melihdedeolu/akbankproject
+* **Melih Dedeoğlu**  https://www.kaggle.com/code/melihdedeolu/akbank-project
 * googlecollab https://colab.research.google.com/drive/1bIpJRqvGnbfGHDvIYNA7sqB7Hsyh0bLD#scrollTo=M4rRoc4Ek1mg
 
