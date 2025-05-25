@@ -82,5 +82,5 @@ Sınıflandırma raporundaki Phishing sınıfına ait F1-skorunun neden az çık
 *    modelimiz günlük hayatta kullanılabilmesi için bir web arayüzü geliştirilebilir.
 *    modelimiz için daha farklı algoritmalar denenebilir
 # Linkler
-...
-
+* **Umut Kuzyaka** https://www.kaggle.com/code/umutkuzyaka/akbankproject
+* **Melih Dedeoğlu**  https://www.kaggle.com/code/melihdedeolu/akbankproject
