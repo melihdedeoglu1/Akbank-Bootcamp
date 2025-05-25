@@ -78,8 +78,11 @@ Sınıflandırma raporundaki Phishing sınıfına ait F1-skorunun neden az çık
 
 
 # Sonuç ve Gelecek Çalışmalar
-...
-
+*    Projemizde de belirtttiğimiz gibi mevcut veri setimizde, bazı URL'ler aslında HTTPS olmasına rağmen bu durum göz ardı edilerek yanlış şekilde etiketlenmiş. Yani, verideki HTTPS olup olmadığı bilgisinin doğru şekilde yansıtılmadığı örnekler mevcut. Bu nedenle, modelin öğrenme sürecinde is_https özelliğinin önemi istatistiksel olarak düşük görünmektedir.HTTPS'in güvenlik açısından kritik bir faktör olduğunu ve URL'nin güvenli olup olmadığını belirlemede önemli bir rol oynadığını düşünüyoruz.Modeli yeniden eğitmeden önce, yanlış etiketlenmiş HTTPS verilerini düzelmek için manuel etiketleme veya veri temizliği işlemleri yapılabilir. Sonrasında, is_https özelliğini daha doğru bir şekilde modelin öğrenme sürecine dahil etmek, modelin performansını artırabilir.
+*    modelimiz günlük hayatta kullanılabilmesi için bir web arayüzü geliştirilebilir.
+*    modelimiz için daha farklı algoritmalar denenebilir
 # Linkler
-...
+* **Umut Kuzyaka** https://www.kaggle.com/code/umutkuzyaka/akbankproject
+* **Melih Dedeoğlu**  https://www.kaggle.com/code/melihdedeolu/akbankproject
+* googlecollab https://colab.research.google.com/drive/1bIpJRqvGnbfGHDvIYNA7sqB7Hsyh0bLD#scrollTo=M4rRoc4Ek1mg
 
