@@ -51,7 +51,6 @@ Elde ettiğimiz en iyi hiperparametreleri modeli eğitirken kullandık ve model 
 
 Elde edilen bu verilerde de görüldüğü gibi toplam 130.239 test örneğinde %92.3 doğruluk elde edildi. Benign ve Defacement sınıflarında yüksek başarı sağlandı (F1-skoru: 0.95). En düşük olan Phishing sınıfı ise model tarafından diğer sınıflara göre daha düşük doğrulukla sınıflandırılmıştır (F1-skoru: 0.74, recall: 0.69). Modelimiz bu sınıfa ait örneklerin örüntü benzerliklerinden dolayı bazı Phishing sınıfına ait özellikleri gözden kaçırdığı anlamına geliyor.
 
-
 Modelimizin Confiuson Matrix'ini görselleştirdik.
 ![RandomForestConfusionGrafigi](https://github.com/melihdedeoglu1/Akbank-Bootcamp/blob/main/images/rf_confusion.png?raw=true)
 
