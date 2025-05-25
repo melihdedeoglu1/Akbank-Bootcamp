@@ -32,7 +32,7 @@ Random Forest algoritması için Confusion Matrix görselleştirmesi yaptık.
 
 # Metrikler
 ![wjdadad](https://imgur.com/a/XluEpcS)
-
+![Ekran Görüntüsü](https://github.com/melihdedeoglu1/Akbank-Bootcamp/blob/main/images/aaa.png?raw=true)
 # Sonuç ve Gelecek Çalışmalar
 ...
 
